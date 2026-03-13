@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou a Lucélia!
 
-![Static Badge](https://img.shields.io/badge/estudante-blue)
+Eu sou ![Static Badge](https://img.shields.io/badge/estudante-red) de desenvolvimento de sistemas
+Atualmente no 1º semestre - Técnico 
 
 
 
--
 - 👩‍🎓 Sou estudante de Desenvolvimento de Sistemas
   
 
