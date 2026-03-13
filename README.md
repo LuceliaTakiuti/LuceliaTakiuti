@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Lucélia!
 
-Eu sou ![Static Badge](https://img.shields.io/badge/estudante-red) do curso Técnico em Desenvolvimento de Sistemas. 
+Eu sou ![Static Badge](https://img.shields.io/badge/estudante-yellow) do curso Técnico em Desenvolvimento de Sistemas. 
 
 ## 🚀 Sobre mim:
 
