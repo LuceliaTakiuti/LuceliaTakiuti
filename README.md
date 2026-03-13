@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Lucélia!
 
-![Estudante](http://imag.shields.io/badge/Estudante-Azul?style=flat)
+![Static Badge](https://img.shields.io/badge/estudante-blue)
 
 
 
