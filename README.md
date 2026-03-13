@@ -1,27 +1,29 @@
 ## 👋 Olá, eu sou a Lucélia!
 
-Eu sou ![Static Badge](https://img.shields.io/badge/estudante-red) de desenvolvimento de sistemas
-Atualmente no 1º semestre - Técnico 
-
-
-
-- 👩‍🎓 Sou estudante de Desenvolvimento de Sistemas
-  
+Eu sou ![Static Badge](https://img.shields.io/badge/estudante-red) do curso Técnico em Desenvolvimento de Sistemas. 
 
 ## 🚀 Sobre mim:
 
-👩‍🎓 Sou estudante de Desenvolvimento de Sistemas, em fase de transição para a área de tecnologia da informação.
-Interesses: Programação, Análise e Desenvolvimento Sistemas, Solucões Digitais
+Em fase de transição para a área de tecnologia da informação, estou em busca de oportunidades para aplicar conhecimentos em programação, análise de sistemas e desenvolvimento de software.
 
-Gosto de aprender, me atualizar e estar em constante aprimoramento. 
+Desejo contribuir para projetos inovadores e aprimorar habilidades técnicas e de trabalho em equipe.
 
+## Interesses:
+
+Programação, Análise e Desenvolvimento Sistemas, Solucões Digitais
+
+## 👩‍🎓 Educação:
+
+***Técnico Desenvolvimento de Sistemas***
+- Instituição: ETEC Martin Luther King
+- Conclusão: Julho/2027
 
 ## 📫 Contato:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flatbadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuceliaTakiuti-LINKEDIN)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flatbadge&logo=gmail&logoColor=white)](mailto:takiuti.lucelia@gmail.com)
 
 
-## Conhecimentos:
+## Conhecimentos/ Habilidades:
 
 - **Linguagem de Programação:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
