@@ -18,7 +18,7 @@ Gosto de aprender, me atualizar e estar em constante aprimoramento.
 
 ## 📫 Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flatbadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuceliaTakiuti-LINKEDIN)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flatbadge&logo=gmail&logoColor=white)](mailto:takiuti.lucelia@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flatbadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuceliaTakiuti-LINKEDIN)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flatbadge&logo=gmail&logoColor=white)](mailto:takiuti.lucelia@gmail.com)
 
 
 ## Conhecimentos:
