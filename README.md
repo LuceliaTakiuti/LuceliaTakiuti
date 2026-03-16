@@ -4,13 +4,13 @@ Eu sou ![Static Badge](https://img.shields.io/badge/estudante-yellow) do curso T
 
 ## 🚀 Sobre mim:
 
-Em fase de transição para a área de tecnologia da informação, estou em busca de oportunidades para aplicar conhecimentos em programação, análise de sistemas e desenvolvimento de software.
+Em fase de transição de carreira para o setor de tecnologia da informação. Disponível para novas oportunidades, aprender, aplicar e aprimorar conhecimentos em programação, análise de sistemas, desenvolvimento de softwares, outros...
 
-Desejo contribuir para projetos inovadores e aprimorar habilidades técnicas e de trabalho em equipe.
+Desejo contribuir para novos projetos, atualização e renovação de outros projetos, buscando sempre atender de forma personalizada, com foco, eficiência e trazendo resultados satisfatórios aos clientes, aprimorar habilidades e contribuir para o mercado de tecnologia.
 
 ## Interesses:
 
-Programação, Análise e Desenvolvimento Sistemas, Solucões Digitais
+Programação, Análise e Desenvolvimento Sistemas, Solucões Digitais.
 
 ## 👩‍🎓 Educação:
 
@@ -38,4 +38,11 @@ Programação, Análise e Desenvolvimento Sistemas, Solucões Digitais
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 
 
-Obrigado pela sua visita no meu perfil.
+"A tecnologia move o mundo." (Steve Jobs)
+
+"Um ser humano deve transformar informação em inteligência ou conhecimento." (Quero Bolsa)
+
+ "A tecnologia está se tornando cada vez mais integrada às nossas vidas, e devemos usá-la de forma responsável, ética e inclusiva, para construir um futuro melhor para todos". (Sundar Pichai - CEO do Google)
+
+
+Obrigado pela sua visita.
