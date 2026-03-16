@@ -6,7 +6,7 @@ Eu sou ![Static Badge](https://img.shields.io/badge/estudante-yellow) do curso T
 
 Em fase de transição de carreira para o setor de tecnologia da informação. Disponível para novas oportunidades, aprender, aplicar e aprimorar conhecimentos em programação, análise de sistemas, desenvolvimento de softwares, outros...
 
-Desejo contribuir para novos, renovar, reestruturar e atualizar projetos, buscando sempre atender de forma personalizada, com foco, eficiência e trazendo resultados satisfatórios aos clientes, aprimorar habilidades e contribuir para o mercado de tecnologia.
+Desejo contribuir para novos, reestruturar, renovar e atualizar projetos, buscando sempre atender de forma personalizada, com foco, eficiência e trazendo resultados satisfatórios aos clientes, aprimorar habilidades e contribuir para o mercado de tecnologia.
 
 ## Interesses:
 
